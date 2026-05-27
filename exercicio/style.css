@@ -1,0 +1,73 @@
+/* REDEFINIR CONFIGURAÇOES DO NAVEGADOR */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+.index {
+    background-image: url("ASSETS/imagem-1.jpg");
+
+
+}
+
+.pagina2 {
+    background-image: url("ASSETS/imagem-2.avif");
+}
+
+h1{
+   color: aliceblue;
+   text-align: center;
+   font-size: 50px;
+   margin: 10px;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
+
+p {
+    color: antiquewhite ;
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+}
+
+p1 {
+    color: antiquewhite;
+    text-align: center;
+    font-size:  20px;
+    margin: 10px;
+}
+
+a {
+    display: inline ;
+    text-align: center;
+    color: blue;
+    text-emphasis: none;
+}
+
+button {
+    display:  inline;
+    padding: 3px 20px ;
+    border-radius: 40px;
+    cursor: pointer;
+    margin: 5px;
+    background-color: aqua;
+
+}
+
+
+
